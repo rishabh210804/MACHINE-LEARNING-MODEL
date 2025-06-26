@@ -41,4 +41,4 @@ In conclusion, the successful implementation of this task demonstrates how machi
 
 # OUTPUT
 
-<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/08558217-bfa4-434e-8837-7f2f6db5dcb7" />
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/6f479304-6e32-4c95-bc3a-4bda03f7846b" />
