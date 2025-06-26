@@ -40,3 +40,5 @@ The larger goal of this task is to help students gain a practical understanding 
 In conclusion, the successful implementation of this task demonstrates how machine learning can be applied to a real-world problem. It enables students to appreciate the potential of ML in solving classification problems and lays the foundation for more complex AI and data science projects in the future.
 
 # OUTPUT
+
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/08558217-bfa4-434e-8837-7f2f6db5dcb7" />
